@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "wedding-rsvp-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "38c800b7-154c-4827-a07d-30ecd73f90b8",
+      "database_name": "wedding-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
